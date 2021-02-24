@@ -1,5 +1,9 @@
 <template>
-  <div class="hello"></div>
+  <div class="hello">
+    <hr />
+    <p class="lead">API Call with axios wil display here</p>
+    <hr />
+  </div>
 </template>
 
 <script lang="ts">
